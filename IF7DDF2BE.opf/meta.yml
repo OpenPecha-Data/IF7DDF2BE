@@ -1,0 +1,39 @@
+id: IF7DDF2BE
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T00:15:09.478299'
+last_modified: '2022-06-19T00:15:09.478311'
+parser: null
+source_metadata:
+  title: 'The gSan yig of Jam mgon A mes zhabs (1597-1659), part IX: teachings from
+    Ngag dbang chos kyi grags pa (1572-1641)'
+  author: ཨ་མྱེས་ཞབས་ངག་དབང་ཀུན་དགའ་བསོད་ནམས།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2015-07-05);
+    converted from external file, unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - 'Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།; This text was initially inputted by Lama
+    Guru, Sachen International (Digital Text version/id: AMAI014.doc). (src)'
+  - Text input:Lama Guru (lg)
+  - Editorial process:Mathias Fermer (mf), Samdrub
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:Samdrub
+  text_witnesses: https://sakyaresearch.org/sources/602
+  bases:
+    205c:
+      title: 'The gSan yig of Jam mgon A mes zhabs (1597-1659), part IX: teachings
+        from Ngag dbang chos kyi grags pa (1572-1641)'
+      order: 1
+      base_file: 205c.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
